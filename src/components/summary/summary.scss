@@ -1,0 +1,56 @@
+.grid-box {
+  border: 1px solid #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  border-radius: 6px;
+  background-color: #ffffff;
+  margin: 15px 15px;
+  align-self: center;
+  padding: 25px 0px;
+  min-height: 113px;
+}
+
+.grid-img {
+  margin-bottom: 7px;
+  width: 35px;
+  height: auto;
+}
+
+.grid-number-label {
+  color: #663399;
+  font-family: Nunito;
+  font-size: 24px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 22px;
+  margin: 0px;
+}
+
+.grid-label {
+  color: #666666;
+  font-family: Nunito;
+  font-size: 13px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 22px;
+  margin: 0px;
+}
+
+.summary-table {
+  margin-top: 25px;
+  margin-left: 5px;
+  padding: 20px;
+}
+
+.summary-title {
+  color: #333333;
+  font-family: Nunito;
+  font-size: 17px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 22px;
+  text-align: left;
+  margin-bottom: 24px;
+}

@@ -1,0 +1,47 @@
+.breadcrumb-container {
+  border-bottom: 1px solid rgba(51, 51, 102, 0.1);
+  margin-bottom: 15px;
+  margin-top: 32px;
+}
+
+.breadcrumb-header {
+  color: #333333;
+  font-family: Nunito;
+  font-size: 24px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 22px;
+  margin-right: 20px;
+}
+
+.breadcrumb-title {
+  color: #333333;
+  font-family: Nunito;
+  font-size: 13px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 22px;
+  margin-top: 4px;
+}
+
+.breadcrumb-divider {
+  margin-top: 9px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 1px;
+  height: 13px;
+  background-color: #333333;
+}
+
+.breadcrumb-version {
+  color: #666666;
+  font-family: Nunito;
+  font-size: 13px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 22px;
+  margin-top: 4px;
+}
